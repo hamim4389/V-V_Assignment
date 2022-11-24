@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "task1\\src",
+        "task1\\test",
+        "task2\\src",
+        "task2\\test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
